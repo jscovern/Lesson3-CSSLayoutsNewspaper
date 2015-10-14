@@ -1,0 +1,42 @@
+.upcase{
+	font-variant: small-caps;
+}
+
+.blockaligncenter{
+	margin: 0px auto;
+}
+
+#h1titlewidth{
+	width: 650px;
+}
+
+.floatleft{
+	float: left;
+}
+
+/*.floatright{
+	float: right;
+}*/
+
+.halfwidth{
+	width: 46%;
+}
+
+.clearleft{
+	clear: left;
+}
+
+.cleartop{
+	clear: top;
+}
+
+.leftborder{
+	border-left: 2px solid black;
+	margin-left: 2%;
+	margin: 0px 0px;
+	padding: 1em 1em;
+}
+
+.rightmargin{
+	margin-right: 1%;
+}
